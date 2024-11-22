@@ -1,0 +1,18 @@
+{
+  "name": "jsflashcards",
+  "version": "1.0.0",
+  "description": "js flashcards",
+  "main": "index.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/ihawp/jsflashcards"
+  },
+  "keywords": [
+    "bananaphone"
+  ],
+  "author": "warren chemerika",
+  "license": "ISC"
+}
