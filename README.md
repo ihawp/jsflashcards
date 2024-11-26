@@ -24,7 +24,7 @@ Should track data related to users 'used' sets:
 Tech?
 - MySQL database
 - React (tsx)
-- Tailwind
+- Tailwind or CSS?
 - Express or Node?
 
 Pages
